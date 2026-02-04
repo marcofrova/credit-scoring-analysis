@@ -8,7 +8,7 @@ The academic requirement was to implement, from scratch, both frequentist and Ba
 methods for Generalized Linear Models — specifically logistic regression via Fisher Scoring
 and Bayesian logistic regression via Random Walk Metropolis–Hastings.
 
-The resulting report is therefore intentionally **theory-heavy**:
+The included report is therefore intentionally **theory-heavy**:
 it includes analytical derivations, algorithmic details, convergence diagnostics,
 and implementation choices required in a rigorous academic setting.
 
@@ -53,8 +53,4 @@ Rather than focusing solely on predictive accuracy, the analysis:
 
 The final outcome is not a classifier, but a **transparent, cost-aware approval policy**
 that is interpretable, stable, and operationally realistic.
-
----
-
-## Repository structure
 
